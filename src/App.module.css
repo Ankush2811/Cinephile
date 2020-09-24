@@ -1,0 +1,23 @@
+body{
+    box-sizing: border-box;
+    background-color: #113e55 !important;
+    margin: 0;
+    padding: 0;
+}
+.App {
+    text-align: center;
+    margin: 0 auto;
+    max-width:1000px;
+    padding: 40px;
+}
+.App > h1{
+    color: rgb(146, 165, 182);
+
+}
+.fotext{
+    margin-bottom: 2%;
+    padding-bottom: 1%;
+    padding-top: 11rem;
+    color: rgb(146, 165, 182);
+
+}

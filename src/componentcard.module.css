@@ -1,0 +1,26 @@
+.card{
+    padding: 2rem 4rem;
+    background-color: rgb(146, 165, 182);
+    border-radius: 20px;
+    margin-bottom: 3rem;
+    box-shadow: 10px 10px 20px 0 , -8px -8px 14px 0 rgb(107, 114, 119);
+}
+.cardtitle{
+    font-size: 2.5rem;
+    margin-bottom:0.5rem;
+    margin-top:0.8rem; 
+    color:#113e55;
+}
+.cardcontent > p{
+    font-size: 1.8rem;
+    margin-bottom: 0.8rem;
+}
+.carddesc{
+    font-size: 1.1rem !important;
+}
+.cardimage{
+    margin:auto auto ;
+    display: block;
+    border-radius: 20px;
+    text-align: center;
+}
